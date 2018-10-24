@@ -1,0 +1,6 @@
+Player luck rating (wins proportion to all games except drafts):
+1) Anna  - 66.7%
+2) Gremlin_pidr  - 50.0%
+3) Andrey  - 46.8%
+4) Vertonger  - 46.2%
+5) Gau  - 33.3%
