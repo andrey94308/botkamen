@@ -1,1 +1,1 @@
-bot: python2 bot.py
+bot: python2 Bot_Kamen.py
