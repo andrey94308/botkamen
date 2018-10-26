@@ -1,1 +1,1 @@
-web: python Bot_Kamen.py
+worker: python Bot_Kamen.py
