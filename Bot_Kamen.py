@@ -3,7 +3,7 @@
 Created on Tue Oct 23 00:02:29 2018
 @author: Andrey
 """
-import web
+
 import random
 import telebot
 import io
