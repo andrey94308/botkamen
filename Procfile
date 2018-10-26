@@ -1,1 +1,1 @@
-bot: python Bot_Kamen.py
+work: python Bot_Kamen.py
